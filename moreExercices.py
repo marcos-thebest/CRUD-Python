@@ -1,0 +1,1 @@
+# Criar um exercício em Python onde você recebe em dólares e faz a conversão para Reais. Guardar esses valores e armazenar em todos os meses do ano. No final, mostrar o valor Brutal que ganhou durante o ano, tanto em dólares como eu reais.
