@@ -45,8 +45,5 @@ C → CREATE  → Criar dados
 R → READ    → Ler dados
 U → UPDATE  → Atualizar dados
 D → DELETE  → Remover dados
-1 - INSERIR
-2 - ALTERAR
-3 - EXIBIR
-4 - EXCLUIR
-5 - SAIR
+
+4 - EXCLUIR5 - SAIR
