@@ -34,7 +34,7 @@ Este projeto utiliza conceitos fundamentais que todo dev precisa dominar:
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
-> 💡 (Você pode substituir esse GIF por um gravado do seu próprio sistema depois 😉)
+> 💡 (CLone o repositório para testar o meu CRUD em Python! 😉)
 
 ---
 
