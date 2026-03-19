@@ -38,9 +38,13 @@ Este projeto utiliza conceitos fundamentais que todo dev precisa dominar:
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ CRUD Operations
 
 ```text
+C → CREATE  → Criar dados
+R → READ    → Ler dados
+U → UPDATE  → Atualizar dados
+D → DELETE  → Remover dados
 1 - INSERIR
 2 - ALTERAR
 3 - EXIBIR
